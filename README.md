@@ -4,7 +4,7 @@
 - 🔭 ตอนนี้กำลังพัฒนาโครงการเกี่ยวกับ **AI & Machine Learning**
 - 🌱 กำลังศึกษาเพิ่มเติมเรื่อง **Go, Docker & Cloud Architecture**
 - 💬 สอบถามเกี่ยวกับ **Python / Backend Development**
-- 📫 ติดต่อได้ที่ **your.email@example.com**
+- 📫 ติดต่อได้ที่ **satangdeelee@gmail.com**
 
 ---
 
@@ -18,6 +18,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dxxlxx&show_icons=true&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxxlxx&layout=compact&theme=dark" height="165" />
 </p>
