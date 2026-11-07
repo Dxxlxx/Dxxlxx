@@ -1,13 +1,10 @@
-<!-- 🚀 HEADER (Clean Typing Effect) -->
 <div align="center">
-  <a href="https://github.com/Dxxlxx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Watsapon+Deelee+👋;AI+%26+Machine+Learning+Developer;Backend+Architecture+Enthusiast" alt="Typing SVG" />
-  </a>
+  <h1>Hi there, I'm Watsapon Deelee 👋</h1>
+  <h3>AI & Machine Learning Developer | Backend Architecture Enthusiast</h3>
 </div>
 
 <br>
 
-<!-- 👁️ VISITOR COUNTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dxxlxx&label=Profile+Views&color=00f2fe&style=for-the-badge" alt="Visitor Count" />
 </div>
